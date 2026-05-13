@@ -62,10 +62,13 @@ Migración de una Pokédex desde React Web hacia React Native, adaptando vistas,
 
 ---
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsterAle16&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterAle16&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EsterAle16&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Actividad
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsterAle16&theme=tokyo-night&hide_border=true)
 
