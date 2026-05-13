@@ -16,32 +16,34 @@ estado_actual: Construyendo proyectos reales y fortaleciendo mi perfil técnico 
 
 ---
 
-## Tecnologías
+## Stack Tecnológico
 
 ### Frontend
-- React
-- React Native
-- TypeScript
-- Material UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![Material UI](https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui)
 
 ### Backend
-- Python
-- Flask
-- FastAPI
-- Node.js
 
-### Base de Datos
-- SQL Server
-- MySQL
-- PostgreSQL
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+
+### Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
 
 ### Herramientas
-- GitHub
-- REST APIs
-- JWT Authentication
-- Excel para análisis y reportes
 
----
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=fastapi)
 
 ## Proyectos Destacados
 
@@ -60,9 +62,10 @@ Migración de una Pokédex desde React Web hacia React Native, adaptando vistas,
 
 ---
 
-## Actualmente
+## GitHub Stats
 
-- Fortaleciendo mis habilidades en Python y desarrollo backend
-- Aprendiendo más sobre Inteligencia Artificial
-- Explorando análisis de datos y ciberseguridad
-- Construyendo proyectos reales paso a paso
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsterAle16&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterAle16&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
